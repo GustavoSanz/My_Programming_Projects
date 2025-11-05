@@ -13,5 +13,5 @@ Eu sou o Gustavo Sanz e sou aluno na ESTG (Escola Superior de Tecnologia e Gest�
 Aqui podes encontrar:
 
 * 📂 **Exercícios Java:** Uma coleção de exercícios práticos... (Exercícios variados com arrays e variáveis)
-* 📂 **Menu Interativo:** Um projeto pessoal para... (Um menu Interativo feito a partir do código Java que funcione para inserir, remover, consultar e até gravar dados, seja números ou palavras)
+* 📂 **Menu Interativo:** Um projeto pessoal para... (Um menu Interativo feito a partir do código Java que funcione para inserir, remover, consultar e até gravar dados, seja números ou palavras **EM DESENVOLVIMENTO**)
 * 📂 **Site (Em Breve):** ...
