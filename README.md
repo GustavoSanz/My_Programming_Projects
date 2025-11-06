@@ -14,9 +14,8 @@ Aqui podes encontrar:
 
 * 📂 **Exercícios Java:** Uma coleção de exercícios práticos... (Exercícios variados com arrays e variáveis)
 * 📂 **Menu Interativo:** Um projeto pessoal para... (Um menu Interativo feito a partir do código Java que funcione para inserir, remover, consultar e até gravar dados, seja números ou palavras **EM DESENVOLVIMENTO**)
-Vídeo do Resultado:
 
-https://github.com/user-attachments/assets/a2334e88-e2e2-4ea0-b32c-d28e132b22cd
-(Ignorem o Menu duplicado, ainda vou ter que resolver se der)
+* **Video do Resultado:**
+    * [![Demo do Menu Interativo](https://github.com/user-attachments/assets/a23f34e8-e2e2-4ea0-b32c-d2e122b22cdf)]
   
 * 📂 **Site (Em Breve):** ...
