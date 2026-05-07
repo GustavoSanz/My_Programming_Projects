@@ -17,5 +17,6 @@ Aqui podes encontrar:
 
 * **Video do Resultado:**
     * [![Demo do Menu Interativo](https://github.com/user-attachments/assets/f2c452f9-2715-4471-9a07-6fcbb72878a2)]
-  
+    * 
 * 📂 **Site (Em Breve):** ...
+* 🎨 **O Pincel Generativo:** Uma experiência de arte abstrata interativa, construída em JavaScript, que utiliza Visão Computacional (p5.js + ml5.js) para permitir ao utilizador pintar no ecrã com o movimento das mãos em tempo real
