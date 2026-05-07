@@ -1,4 +1,4 @@
-# O Pincel Generativo 🎨
+# Mãos artísticas 
 
 ## Declaração de Intenção
 Esta obra é uma experiência interativa abstrata onde o corpo do utilizador se torna a própria ferramenta de criação. Ao utilizar visão computacional, o projeto quebra a barreira física entre o artista e a tela digital, permitindo pintar através de gestos orgânicos no ar.
