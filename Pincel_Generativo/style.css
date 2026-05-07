@@ -1,0 +1,31 @@
+/* Removemos as margens brancas chatas que os browsers colocam por defeito */
+body {
+  margin: 0;
+  padding: 0;
+  
+  /* Um fundo com gradiente escuro moderno (estilo Midnight City) */
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+  
+  /* Fazemos a página ocupar 100% da altura do teu ecrã */
+  height: 100vh;
+  
+  /* Magia do Flexbox: Centra tudo perfeitamente na vertical e horizontal! */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  /* Impede que a página crie barras de scroll se a janela for pequena */
+  overflow: hidden; 
+}
+
+/* Como o p5.js cria uma tag <canvas>, é aqui que a decoramos */
+canvas {
+  /* Arredondamos os cantos da tua câmara/tela */
+  border-radius: 16px;
+  
+  /* Colocamos uma sombra gigante para parecer que a tela está a flutuar no ecrã */
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.7);
+  
+  /* Uma borda muito fininha e semi-transparente para dar um aspeto de "vidro" */
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
