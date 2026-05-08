@@ -1,5 +1,10 @@
 # Mãos artísticas
 
+✨ **[Clica aqui para experimentares o projeto ao vivo!](https://gustavosanz.github.io/My_Programming_Projects/Maos_Artisticas/)** ✨
+
+*(Nota: É necessário dar permissão de acesso à webcam para a Inteligência Artificial detetar os movimentos das tuas mãos).*
+
+
 ## Declaração de Intenção
 
 Neste projeto, o utilizador assume o papel de artista, utilizando o próprio corpo como principal ferramenta. Através de visão computacional, é possível ultrapassar barreiras físicas e criar arte digital apenas com gestos no ar.
