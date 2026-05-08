@@ -1,6 +1,6 @@
 # Mãos artísticas
 
-✨ **[Clica aqui para experimentares o projeto ao vivo!](https://gustavosanz.github.io/My_Programming_Projects/Maos_Artisticas/)** ✨
+✨ **[Clica aqui para experimentares o projeto ao vivo!](https://gustavosanz.github.io/My_Programming_Projects/Maos_artisticas/)** ✨
 
 *(Nota: É necessário dar permissão de acesso à webcam para a Inteligência Artificial detetar os movimentos das tuas mãos).*
 
